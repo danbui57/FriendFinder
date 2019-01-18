@@ -1,7 +1,7 @@
 var friends = [
     {
-      name: "Ahmed",
-      photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+      name: "Brandon James",
+      photo: "https://images.wccbcharlotte.com/wp-content/uploads/2018/03/Brandon-James-robbery-with-dangerous-weapon.jpg",
       scores: [
         "5",
         "1",
@@ -16,8 +16,8 @@ var friends = [
       ]
     },
     {
-      name: "Jacob Deming",
-      photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+      name: "Ceddy Steeze",
+      photo: "http://bscsk8shop.synthasite.com/resources/IMG00761.jpg",
       scores: [
         "4",
         "2",
@@ -32,8 +32,8 @@ var friends = [
       ]
     },
     {
-      name: "Jeremiah Scanlon",
-      photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+      name: "Daniel Buitrago",
+      photo: "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/05/07/Pictures/_112ab3ca-51d8-11e8-aa60-d0af28d4422a.jpg",
       scores: [
         "5",
         "2",
@@ -48,8 +48,8 @@ var friends = [
       ]
     },
     {
-      name: "Louis T. Delia",
-      photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+      name: "John Jones",
+      photo: "https://res.cloudinary.com/tsl/image/upload/amdahpbhvgztxgvglo7f",
       scores: [
         "3",
         "3",
@@ -64,8 +64,8 @@ var friends = [
       ]
     },
     {
-      name: "Lou Ritter",
-      photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+      name: "Julian Murillo",
+      photo: "https://pbs.twimg.com/profile_images/1007292119013154816/DDKUzcT6_400x400.jpg",
       scores: [
         "4",
         "3",
@@ -80,8 +80,8 @@ var friends = [
       ]
     },
     {
-      name: "Jordan Biason",
-      photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+      name: "Mike",
+      photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mike_Myers_David_Shankbone_2010_NYC.jpg/220px-Mike_Myers_David_Shankbone_2010_NYC.jpg",
       scores: [
         "4",
         "4",
