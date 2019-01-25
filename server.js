@@ -9,9 +9,8 @@ app.use(bodyParser.json());
 
 app.use(express.static(__dirname + "/app/public"));
 
-require("./app/routing/apiRoutes")(app);
-require("./app/routing/htmlRoutes")(app);
-require("./app/data/friend")
+require("./app/routing/apiRoutes.js")(app);
+require("./app/routing/htmlRoutes.js")(app);
 
 app.listen(PORT, function () {
     console.log("App listening on http://localhost:" + PORT);
